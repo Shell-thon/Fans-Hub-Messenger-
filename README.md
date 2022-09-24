@@ -1,5 +1,5 @@
 # Fans-Hub-Messenger
-Fans-Hub allow developers to chat for a CLI with the Internet-Relay Protocol that supports end-to-end encryption.
+Fans-Hub allow developers to chat from a CLI with the Internet-Relay Protocol that supports end-to-end encryption.
 THESE SOFTWARE APPLIES TO BOTH WINDOWS & ANDRIOD DEVICES.
 
 Features!
